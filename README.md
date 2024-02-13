@@ -1,1 +1,1 @@
-# B-i-t-p-OOP-excercise
+# OOP-excercise
