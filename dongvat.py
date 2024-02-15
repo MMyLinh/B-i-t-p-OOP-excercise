@@ -6,7 +6,5 @@ class Dongvat:
         self.thuc_an = thuc_an
 con_bo = Dongvat("có vú","ăn cỏ")
 ca_sau = Dongvat("bò sát", "ăn thịt")
-print("con bò là động vật thuộc nhóm {}".format(con_bo.nhom))
-print("cá sấu là loài động vật thuộc nhóm {}".format(ca_sau.nhom))
-print("con bò {}".format(con_bo.thuc_an))
-print("cá sấu {}".format(ca_sau.thuc_an))
+print("con bò là động vật thuộc nhóm {} và {}".format(con_bo.nhom,con_bo.thuc_an))
+print("cá sấu là loài động vật thuộc nhóm {} và {}".format(ca_sau.nhom,ca_sau.thuc_an))
